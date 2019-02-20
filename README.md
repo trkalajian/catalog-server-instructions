@@ -162,8 +162,13 @@ engine = create_engine('postgresql://catalog:password@localhost/catalog')
 1. `sudo service apache2 restart`.
 
 #### 
-sources `https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps`
-	`https://help.ubuntu.com/community/UbuntuTime`
-	`https://askubuntu.com/questions/740976/im-getting-this-you-should-replace-this-file-located-at-var-www-html-index-h'
-	'https://askubuntu.com/questions/629995/apache-not-able-to-restart'
-	'https://modwsgi.readthedocs.io/en/develop/configuration-directives/WSGIDaemonProcess.html'
+sources 
+`https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps`
+
+`https://help.ubuntu.com/community/UbuntuTime`
+
+`https://askubuntu.com/questions/740976/im-getting-this-you-should-replace-this-file-located-at-var-www-html-index-h'
+
+'https://askubuntu.com/questions/629995/apache-not-able-to-restart'
+
+'https://modwsgi.readthedocs.io/en/develop/configuration-directives/WSGIDaemonProcess.html'
